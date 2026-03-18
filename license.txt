@@ -1,0 +1,17 @@
+LDPUBLISHER SON KULLANICI LİSANS SÖZLEŞMESİ (EULA)
+
+Lütfen bu sözleşmeyi dikkatlice okuyunuz. LDPUBLISHER ("Yazılım") kurulumunu gerçekleştirerek bu belgedeki şartları kabul etmiş sayılırsınız.
+
+1. KULLANIM AMACI VE KAPSAMI
+Bu yazılım, Steam platformunda Left 4 Dead 2 atölye içeriklerinin (modifikasyon, harita vb.) paketlenmesi, indirilmesi ve yayınlanması işlemlerini kolaylaştırmak amacıyla geliştirilmiş bağımsız bir araçtır. Valve Corporation veya Steam ile resmi bir bağı bulunmamaktadır.
+
+2. SORUMLULUK REDDİ
+Yazılım, "olduğu gibi" sunulmaktadır. Geliştirici, yazılımın kullanımı sırasında oluşabilecek olası veri kayıplarından, Steam Atölyesi ile yaşanabilecek senkronizasyon hatalarından veya Valve Corporation tarafından hesabınıza uygulanabilecek herhangi bir yaptırımdan sorumlu tutulamaz. Mod dosyalarınızın yedeklerini almak tamamen kullanıcının sorumluluğundadır.
+
+3. GÜVENLİK VE GİZLİLİK
+LDPUBLISHER, yalnızca yerel modifikasyon dosyalarınızı ve Steam hesabınızın herkese açık temel Atölye verilerini işler. Kişisel mesajlarınız, şifreleriniz veya diğer özel bilgileriniz toplanmaz, sunucularda saklanmaz veya üçüncü şahıslarla paylaşılmaz. Tüm işlemler SteamWorks API altyapısı üzerinden şeffaf bir şekilde gerçekleşir.
+
+4. FİKRİ MÜLKİYET
+Left 4 Dead 2, Steam ve Steamworks Valve Corporation'ın tescilli ticari markalarıdır. Yazılım üzerinden yayınladığınız veya indirdiğiniz içeriklerin telif hakları ile ilgili sorumluluk tamamen kullanıcıya aittir.
+
+Kuruluma devam etmek için bu şartları kabul etmeniz gerekmektedir.

@@ -1,0 +1,18 @@
+{
+  "name": "ldpublisher",
+  "version": "1.0.0",
+  "description": "Left 4 Dead 2 Atölye Yönetim Aracı",
+  "main": "main.js",
+  "author": "Alp",
+  "scripts": {
+    "start": "electron .",
+    "paketle": "electron-packager . LDPUBLISHER --platform=win32 --arch=x64 --icon=ldpublisherlogo.ico --out=Uygulama_Dosyalari --overwrite"
+  },
+  "dependencies": {
+    "steamworks.js": "^0.3.0"
+  },
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-packager": "^17.1.2"
+  }
+}
