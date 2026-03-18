@@ -6,6 +6,14 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
 [![License](https://img.shields.io/badge/Lisans-EULA-orange.svg)]()
 
+## 📥 İndirme Linki
+
+Uygulamayı kullanmaya başlamak için aşağıdaki butona tıklayarak en son sürüm kurulum dosyasını indirebilirsiniz:
+
+[![İndir LDPUBLISHER](https://img.shields.io/badge/LDPUBLISHER-Hemen_İndir_(v1.0.0)-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alpcaliskan/ldpublisher/releases/latest/download/LDPUBLISHER_Setup.exe)
+
+---
+
 ## 📖 Hikayemiz & Vizyon
 Yıllardır Left 4 Dead 2 topluluğu, atölyeye mod yüklemek veya VPK dosyalarıyla uğraşmak için komut satırlarında boğuşmak veya ne idüğü belirsiz eski araçları kullanmak zorundaydı. **LDPUBLISHER**, tam olarak bu çileye bir son vermek için tasarlandı. Amacımız, mod geliştiricilerine ve oyunculara hak ettikleri o pürüzsüz, modern ve şık deneyimi sunmaktı. Gecelerce süren kodlamalar, arayüz tasarımları ve Steam entegrasyonu testleri sonucunda, karmaşık Atölye yönetimini tek bir tıkla halledebileceğiniz bu yapıyı inşa ettik. Bizim için sadece bir araç değil, topluluğa bırakılmış profesyonel bir mirastır.
 
